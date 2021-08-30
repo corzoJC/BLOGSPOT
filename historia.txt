@@ -7,3 +7,6 @@ y soy JC Corzo
 al final si logre hacerlo 
 ok
 hoy es 30 de agosto
+
+ahora vamos a probar VIM 
+VEREMOS COMO SE GUARDA 
